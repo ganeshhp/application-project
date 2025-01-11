@@ -1,1 +1,3 @@
 file2.txt created for testing purpose
+
+new line added for testing
